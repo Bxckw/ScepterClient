@@ -17,7 +17,7 @@ Welcome to **Scepter**, a powerful and newly released **Hacked Client** for **Mi
 
 ### **Installation** 🛠️:
 1. Clone or download the repository to your local machine. 💻
-2. Follow the setup instructions provided in the repository to install and configure Scepter. ⚙️
+2. Open your game and use it from the app inside repository. ⚙️
 3. Enjoy a new and enhanced Minecraft experience! 🎮
 
 > **Note:** This client is intended for **educational purposes only**. Please be aware of the rules and terms of service for any server you play on. Using hacked clients may result in being banned from servers with anti-cheat measures. ⚠️
